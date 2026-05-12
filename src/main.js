@@ -1,3 +1,4 @@
+import Phaser from 'phaser';
 import { Start } from './scenes/Start.js';
 
 const config = {
