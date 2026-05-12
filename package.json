@@ -1,0 +1,27 @@
+{
+  "name": "iran-missile",
+  "version": "1.0.0",
+  "description": "A small Phaser game/demo project.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpk1988/iran-missile.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpk1988/iran-missile/issues"
+  },
+  "homepage": "https://github.com/tpk1988/iran-missile#readme",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.3"
+  }
+}
