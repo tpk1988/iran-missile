@@ -1,7 +1,7 @@
 {
   "name": "iran-missile",
   "version": "1.0.0",
-  "description": "A small Phaser game/demo project.",
+  "description": "Clean Phaser and Vite starter.",
   "private": true,
   "type": "module",
   "scripts": {
